@@ -36,6 +36,7 @@
     position: relative;
     display: inline;
     margin: auto;
+    text-align: center;
 }
 .toggle-btn:hover{
     color: blue;
@@ -57,7 +58,7 @@
 
 }
 .social-icons img{
-    width: 30px;
+    width: 90px;
     margin: 0 12px;
     box-shadow: 0 0   #7f7f7f3d;
     cursor: pointer;
