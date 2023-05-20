@@ -11,9 +11,8 @@
     background-size: cover;
     position: absolute;
 }
-
 .form-box{
-    width: 380px;
+    width: 350px;
     height: 480px;
     position: relative;
     margin: 6% auto;
@@ -59,10 +58,11 @@
 }
 .social-icons img{
     width: 90px;
-    margin: 0 12px;
+    margin-left: 0px;
     box-shadow: 0 0   #7f7f7f3d;
     cursor: pointer;
     border-radius: 50%;
+    float: inline-end;
 }
 .input-group{
     top: 180px;
