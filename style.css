@@ -96,7 +96,8 @@
 }
 
 .submit-btn:hover{
-    color:   #081b29;
+    color:   blue;
+    background: #777;
 }
 .check-box{
     margin: 30px 10px 30px 0;
