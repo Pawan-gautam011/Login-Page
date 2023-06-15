@@ -27,19 +27,14 @@
     border-radius: 300px;
     color: inherit;
 }
-.toggle-btn{
-    padding: 10px;
-    background: burlywood;
-    border: 0;
-    outline: none;
-    position: relative;
-    display: inline;
-    margin: auto;
+h1{
+    font-size: 17px;
     text-align: center;
+    color:black;
+    line-height: 10%;
+
 }
-.toggle-btn:hover{
-    color: blue;
-}
+
 #btn{
     top: 0;
     left: 0;
