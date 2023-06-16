@@ -52,7 +52,7 @@ h1{
 
 }
 .social-icons img{
-    width: 90px;
+    width: 92px;
     margin-left: 0px;
     box-shadow: 0 0   #7f7f7f3d;
     cursor: pointer;
@@ -62,7 +62,7 @@ h1{
 .input-group{
     top: 180px;
     position:absolute;
-    width: 280px;
+    width: 282px;
     transition: .5s;
 
 }
